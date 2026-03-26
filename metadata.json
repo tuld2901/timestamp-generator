@@ -1,0 +1,5 @@
+{
+  "name": "Timestamp Generator",
+  "description": "Generate formatted timestamps within specific daily time ranges for scheduling posts.",
+  "requestFramePermissions": []
+}
